@@ -1,11 +1,3 @@
-
-<style>
-    * {
-        font-family: Arial, Helvetica, sans-serif;
-        color: black;
-    }
-</style>
-
 <h1>Expanding Cards</h1>
 <h3>Técnologias usadas</h3>
 <ul>
